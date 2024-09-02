@@ -4,7 +4,7 @@
     <div class="flex flex-col gap-5 justify-center items-center">
         <p class="text-5xl italic font-medium my-4">Conheça um pouco da nossa história: </p>
         <video width="720" height="440" controls>
-            <source src="~/assets/img/videocapela.mp4" type="video/mp4">
+            <source src="https://youtu.be/gF927Rv4HSg" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
