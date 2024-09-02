@@ -1,11 +1,10 @@
 <template>
-  <footer class="footer bg-[#711E16] w-full h-48 justify-center py-10 text-white">
+  <footer class="footer bg-[#981317] w-full h-48 justify-center py-10 text-white">
       <div class="">
 
       </div>
       <nav class="flex items-between gap-16">
         <div class="text-xl">
-          <h6 class="">Services</h6>
           <p class="">Todos os direitos reservados.</p>
           <p class="">Desenvolvido por: LCWeb</p>
         </div>
