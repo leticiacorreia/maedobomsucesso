@@ -18,7 +18,7 @@
       <a href="#item2" class="btn btn-xs">2</a>
     </div> -->
 
-    <div class="w-3/5 text-center py-12 text-2xl font-semibold">
+    <div class="w-3/5 text-center py-12 text-2xl font-semibold" id="quemsomos">
       <p> Os Arautos do Evangelho são uma Associação Internacional de Fiéis de Direito Pontifício, 
           a primeira a ser erigida pela Santa Sé no terceiro Milênio, o que ocorreu por ocasião 
           da festa litúrgica da Cátedra de São Pedro em 22/02/2001. 
@@ -39,22 +39,32 @@
         </iframe>
     </div>
    
-    <div class="flex flex-col py-30 w-4/5 gap-10 justify-center text-[#711E16]">
-        <div class="w-full h-28 text-center italic py-12 text-4xl">
-            Ajude-nos neste projeto:
+    <div class="flex flex-col py-30 gap-10 justify-center text-[#711E16]" id="doe">
+        <div class="w-full flex justify-center font-semibold h-28 text-center italic py-12 text-4xl">
+          Faça parte desta obra de Maria, <br> ajude à construção desta casa de Deus!
         </div>
 
-        <div class="flex w-full justify-center py-2 text-2xl font-semibold">
-          <div class="flex w-2/4 justify-end items-end">
-            <p> Faça parte desta obra de Maria, <br>ajude à construção desta casa de Deus!</p>
+        <div class="flex max-w-4xl justify-center py-2 text-xl font-semibold">
+          <div class="flex flex-col w-1/2 justify-center gap-4 items-center pe-8">
+            <!-- <img src="~/assets/img/photo_2024-12-02_11-09-25.jpg" width="800px" /> -->
+            
+            <p class="text-start"> </p>
+            <img src="~/assets/img/maquete-semfundo.png" height="px" width="300px"/>
           </div>
-          <div class="flex items-end ps-10 w-2/4">
-            <form action="" method="post" target="_top">
+          <div class="flex flex-col items-start justify-center gap-8 ps-8 w-1/2 ">
+            <!-- <form action="" method="post" target="_top">
               <input name="hosted_button_id" type="hidden" value="">
               <span>
                 <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"></span><span><img loading="lazy" decoding="async" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" alt="" width="1" height="1" border="0">&nbsp;
               </span>
-            </form>
+            </form> -->
+            <p class="text-2xl"> 
+              CNPJ: 03.988.329/0049-45 <br>
+              Banco: 461 - Asaas I.P S.A <br>
+              Agência: 0001<br>
+              Conta: 3621190-2
+            </p>
+            <img src="~/assets/img/qr-code.jpg" width="200px" height="200px" />
           </div>
         </div>
         <hr />
