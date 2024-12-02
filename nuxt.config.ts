@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     }
   ],
   devtools: { enabled: true },
-  modules: ['@nuxt/content', "@nuxtjs/tailwindcss", "@nuxt/fonts"],
+  modules: ['@nuxt/content', "@nuxtjs/tailwindcss", "@nuxt/fonts", "@nuxt/image"],
   // fonts: {
   //   families: [
   //     { name: 'Cormorant Garamond', provider: 'google'},
